@@ -5,6 +5,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFDD&center=true&vCenter=true&width=700&height=90&lines=Building+Things+One+Commit+at+a+Time;Innovating+for+a+Better+Future;Crafting+Code+with+Precision" alt="Typing SVG" />
 </div>
 
+---
+
 ### 🌟 About Me
 
 - 🔭 **Current Focus:** Crafting AI-driven solutions for plant species identification, leveraging the latest in computer vision.
@@ -12,6 +14,8 @@
 - 🤝 **Let's Collaborate:** I'm eager to join forces on projects involving blockchain security, AI in healthcare, and innovative software solutions.
 - 💬 **Ask Me About:** My journey in developing blockchain applications, AI's impact on healthcare, and best practices for secure coding.
 - ⚡ **Fun Fact:** I once tried to debug code with a cup of coffee in hand—now my code won’t run without caffeine!
+
+---
 
 ### 🛠️ Skills & Technologies
 
@@ -24,11 +28,13 @@
 - **Technical Skills:** Software Testing, Machine Learning, Blockchain Development
 - **Soft Skills:** Public Speaking, Effective Communication, Problem Solving, Adaptability, Collaboration and Teamwork
 
+---
+
 ### 📚 Featured Projects
 
 <details>
   <summary><b>🗳️ Democrochain</b></summary>
-  <div style="background-color: #0A192F; padding: 10px; border-radius: 10px;">
+  <div style="background-color: #0A192F; padding: 15px; border-radius: 10px; box-shadow: 0 0 15px rgba(0, 255, 221, 0.7);">
     <ul>
       <li><strong>Description:</strong> A pioneering blockchain-based voting application built on Ethereum.</li>
       <li><strong>Key Achievements:</strong>
@@ -42,14 +48,14 @@
           <li>Achieved full transparency in party funding using decentralized apps.</li>
         </ul>
       </li>
-      <li><strong>Repository:</strong> <a href="https://github.com/HamsaCS/block_all_defeat.git">Democrochain</a></li>
+      <li><strong>Repository:</strong> <a href="https://github.com/HamsaCS/block_all_defeat.git" style="color: #00FFDD; text-decoration: none;">Democrochain</a></li>
     </ul>
   </div>
 </details>
 
 <details>
   <summary><b>🌿 Medical Plant Detection</b></summary>
-  <div style="background-color: #0A192F; padding: 10px; border-radius: 10px;">
+  <div style="background-color: #0A192F; padding: 15px; border-radius: 10px; box-shadow: 0 0 15px rgba(0, 255, 221, 0.7);">
     <ul>
       <li><strong>Description:</strong> A cutting-edge deep learning computer vision system for identifying medicinal plants.</li>
       <li><strong>Key Achievements:</strong>
@@ -60,14 +66,14 @@
           <li>Facilitated the discovery of new medicinal compounds and sustainable harvesting methods.</li>
         </ul>
       </li>
-      <li><strong>Repository:</strong> <a href="https://github.com/HamsaCS/Medical-plant-detection.git">Medical Plant Detection</a></li>
+      <li><strong>Repository:</strong> <a href="https://github.com/HamsaCS/Medical-plant-detection.git" style="color: #00FFDD; text-decoration: none;">Medical Plant Detection</a></li>
     </ul>
   </div>
 </details>
 
 <details>
   <summary><b>🦠 COVID Testing Management</b></summary>
-  <div style="background-color: #0A192F; padding: 10px; border-radius: 10px;">
+  <div style="background-color: #0A192F; padding: 15px; border-radius: 10px; box-shadow: 0 0 15px rgba(0, 255, 221, 0.7);">
     <ul>
       <li><strong>Description:</strong> A comprehensive COVID testing management system designed for rapid appointments and fast result delivery.</li>
       <li><strong>Key Achievements:</strong>
@@ -79,14 +85,14 @@
           <li>Enabled data-driven decision-making for public health strategies.</li>
         </ul>
       </li>
-      <li><strong>Repository:</strong> <a href="https://github.com/HamsaCS/covid-testing-management.git">COVID Testing Management</a></li>
+      <li><strong>Repository:</strong> <a href="https://github.com/HamsaCS/covid-testing-management.git" style="color: #00FFDD; text-decoration: none;">COVID Testing Management</a></li>
     </ul>
   </div>
 </details>
 
 <details>
   <summary><b>🔐 Password Manager</b></summary>
-  <div style="background-color: #0A192F; padding: 10px; border-radius: 10px;">
+  <div style="background-color: #0A192F; padding: 15px; border-radius: 10px; box-shadow: 0 0 15px rgba(0, 255, 221, 0.7);">
     <ul>
       <li><strong>Description:</strong> A robust password manager app with cross-platform functionality and top-tier security features.</li>
       <li><strong>Key Achievements:</strong>
@@ -96,16 +102,18 @@
           <li>Enhanced user security and simplified the password management experience.</li>
         </ul>
       </li>
-      <li><strong>Repository:</strong> <a href="https://github.com/HamsaCS/Password_manager.git">Password Manager</a></li>
+      <li><strong>Repository:</strong> <a href="https://github.com/HamsaCS/Password_manager.git" style="color: #00FFDD; text-decoration: none;">Password Manager</a></li>
     </ul>
   </div>
 </details>
+
+---
 
 ### 🥇 Achievements & Awards
 
 <details>
   <summary><b>🏆 National Level Hackathon - Winner</b></summary>
-  <div style="background-color: #0A192F; padding: 10px; border-radius: 10px;">
+  <div style="background-color: #0A192F; padding: 15px; border-radius: 10px; box-shadow: 0 0 15px rgba(0, 255, 221, 0.7);">
     <ul>
       <li>Claimed the top spot in the prestigious *Ambition Hackathon* at Bangalore Institute of Technology.</li>
       <li>Developed a blockchain-based voting system prototype that tackled India's Electoral Bond Issue.</li>
@@ -115,13 +123,15 @@
 
 <details>
   <summary><b>🥈 Matrix Abacus Competition - Second Place</b></summary>
-  <div style="background-color: #0A192F; padding: 10px; border-radius: 10px;">
+  <div style="background-color: #0A192F; padding: 15px; border-radius: 10px; box-shadow: 0 0 15px rgba(0, 255, 221, 0.7);">
     <ul>
       <li>Demonstrated exceptional mental arithmetic and problem-solving abilities.</li>
       <li>Commended for outstanding speed and accuracy in solving complex calculations.</li>
     </ul>
   </div>
 </details>
+
+---
 
 ### 🌐 Connect with Me
 
@@ -134,6 +144,6 @@
   </a>
 </div>
 
-<p align="center" style="color: #BB86FC;">
+<p align="center" style="color: #BB86FC; font-size: 1.1em; font-style: italic;">
   <strong>"Innovation distinguishes between a leader and a follower."</strong> – Steve Jobs
 </p>
