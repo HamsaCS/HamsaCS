@@ -1,24 +1,11 @@
 <div align="center"> <img src="https://i.imgur.com/your-banner-image.gif" alt="High-Tech Banner" width="100%"/> <h1 style="color: #00FFDD; text-shadow: 0 0 20px #00FFDD;">Welcome! I'm <a href="https://github.com/HamsaCS" style="color: #00FFDD; text-decoration: none; text-shadow: 0 0 20px #00FFDD;">Hamsa C S</a></h1> <p style="color: #BB86FC; font-style: italic; font-size: 1.2em;">👨‍💻 Software Developer | 🌱 Machine Learning Enthusiast | ☁️ Blockchain Innovator</p> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFDD&center=true&vCenter=true&width=700&height=90&lines=Building+Things+One+Commit+at+a+Time;Innovating+for+a+Better+Future;Crafting+Code+with+Precision" alt="Typing SVG" /> </div>
 
 🌟 About Me
-class HamsaCS:
-    def __init__(self):
-        self.currently_working_on = "AI-powered plant species identification"
-        self.learning = "Blockchain development and computer vision"
-        self.collaboration_interests = ["Blockchain security", "AI-driven healthcare"]
-        self.fun_fact = "I once solved complex math problems using only mental arithmetic in a competition!"
-    
-    def ask_me_about(self):
-        return ["Blockchain applications", "AI in healthcare", "Secure software development", "Anything tech-related"]
-
-    def skills(self):
-        return ["Python", "Java", "C", "HTML", "CSS", "JavaScript", "AngularJS", "Django"]
-
-    def databases(self):
-        return ["SQL", "Blockchain Technologies"]
-
-    def soft_skills(self):
-        return ["Public Speaking", "Effective Communication", "Problem Solving", "Adaptability", "Collaboration and Teamwork"]
+🔭 Current Focus: Crafting AI-driven solutions for plant species identification, leveraging the latest in computer vision.
+🌱 What I'm Learning: Delving deeper into blockchain technology and exploring the frontiers of decentralized systems.
+🤝 Let's Collaborate: I'm eager to join forces on projects involving blockchain security, AI in healthcare, and innovative software solutions.
+💬 Ask Me About: My journey in developing blockchain applications, AI's impact on healthcare, and best practices for secure coding.
+⚡ Fun Fact: I once tried to debug code with a cup of coffee in hand—now my code won’t run without caffeine!
 
 🛠️ Skills & Technologies
 <div align="center"> <img src="https://skillicons.dev/icons?i=python,java,html,css,js,angular,django" alt="Tech Stack" width="400px"/> </div>
