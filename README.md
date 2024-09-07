@@ -2,9 +2,13 @@
 
 🌟 About Me
 🔭 Current Focus: Crafting AI-driven solutions for plant species identification, leveraging the latest in computer vision.
+
 🌱 What I'm Learning: Delving deeper into blockchain technology and exploring the frontiers of decentralized systems.
+
 🤝 Let's Collaborate: I'm eager to join forces on projects involving blockchain security, AI in healthcare, and innovative software solutions.
+
 💬 Ask Me About: My journey in developing blockchain applications, AI's impact on healthcare, and best practices for secure coding.
+
 ⚡ Fun Fact: I once tried to debug code with a cup of coffee in hand—now my code won’t run without caffeine!
 
 🛠️ Skills & Technologies
